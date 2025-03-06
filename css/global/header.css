@@ -8,10 +8,7 @@
   flex-wrap: wrap;
   gap: 20px;
   align-items: center;
-  max-width: 1200px;
-  width: 95%;
-  margin: 0 auto;
-  height: 93px;
+  padding: 20px 0;
 }
 
 .header .header-menu {
@@ -23,10 +20,7 @@
 .header-menu a {
   padding: 16px 0;
   display: inline-block;
-  font-size: 18px;
   position: relative;
-  font-family: "Poppins";
-  font-weight: 400;
 }
 
 .header-menu a:after {
